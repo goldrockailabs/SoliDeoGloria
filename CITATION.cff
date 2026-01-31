@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "Christian AI Benchmark (CAB) v2.0"
+message: "If you use this benchmark, please cite it as below."
+type: dataset
+authors:
+  - name: "Soli Deo Gloria Research Initiative"
+    affiliation: "Eldest AI LLC dba GoldRock AI"
+repository-code: "https://github.com/SoliDeoGloria-ai/CAB"
+url: "https://SoliDeoGloria.ai"
+license: CC-BY-SA-4.0
+version: "2.0"
+date-released: "2026-01-31"
+keywords:
+  - AI benchmark
+  - Christianity
+  - LLM evaluation
+  - Faith AI
+  - Pastoral care
+abstract: >-
+  The Christian AI Benchmark (CAB) is a comprehensive framework
+  for evaluating AI systems on Christian knowledge, theology,
+  and pastoral care across 10 dimensions and 10 denominations.

@@ -1,0 +1,17 @@
+# Results
+*_results.json
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
